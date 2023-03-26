@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, welcome to my website. My name is Jack and I'm a postdoctoral researcher in experimental particle physics at the [Johannes Gutenberg-Universität Mainz][johannes], Germany. Currently I am a member of both the [ATLAS][atlas] and [FASER][faser] collaborations at CERN, where I am mainly involved in searches for axion-like particles (ALPs). Previously I've also worked on precision Standard Model (SM) measurements with ATLAS.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here I mostly write about physics topics that interest me. I am by no means an expert on (m)any of these topics, so please take what you read here with caution.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[johannes]: https://www.etap.physik.uni-mainz.de/
+[atlas]: https://atlas.cern/
+[faser]: https://faser.web.cern.ch/
